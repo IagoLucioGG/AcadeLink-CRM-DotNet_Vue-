@@ -98,4 +98,4 @@ O objetivo é permitir o controle eficiente de usuários, alunos, modalidades e 
 - Upload de imagens para usuários e alunos  
 
 ---  
-**Desenvolvido por Iago Lúcio**  
+**Desenvolvido por Iago Lucio**  

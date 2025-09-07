@@ -1,0 +1,74 @@
+
+# ==============================
+# .NET
+# ==============================
+bin/
+obj/
+**/bin/
+**/obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.backup
+*.BLOB
+*.pdb
+*.log
+*.ldf
+*.ndf
+*.rdl.data
+*.rdl.designer.cs
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# ==============================
+# Node / Vue.js
+# ==============================
+node_modules/
+dist/
+.cache/
+.temp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ==============================
+# Ambiente / Configurações Locais
+# ==============================
+.env
+.env.local
+.env.*.local
+
+# ==============================
+# Sistema Operacional
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Outros
+# ==============================
+/logs
+*.tmp
+*.temp
+*.swp
+*.swo

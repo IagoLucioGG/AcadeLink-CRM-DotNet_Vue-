@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "PackagePath": "staticwebassets\\assets\\index-Bu8LtSWt.js"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "PackagePath": "staticwebassets\\assets\\index-C6o9yQMW.css"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-CSr8KVlo.eot"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-PXm3-2wK.woff"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CRM.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CRM.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CRM.Api.props",
+      "PackagePath": "build\\CRM.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CRM.Api.props",
+      "PackagePath": "buildMultiTargeting\\CRM.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CRM.Api.props",
+      "PackagePath": "buildTransitive\\CRM.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

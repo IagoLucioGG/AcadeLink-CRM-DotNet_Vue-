@@ -1,0 +1,11 @@
+C:\SistemProject\Unopar\CRM.Models\bin\Debug\net9.0\CRM.Models.deps.json
+C:\SistemProject\Unopar\CRM.Models\bin\Debug\net9.0\CRM.Models.dll
+C:\SistemProject\Unopar\CRM.Models\bin\Debug\net9.0\CRM.Models.pdb
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\CRM.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\CRM.Models.AssemblyInfoInputs.cache
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\CRM.Models.AssemblyInfo.cs
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\CRM.Models.csproj.CoreCompileInputs.cache
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\CRM.Models.dll
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\refint\CRM.Models.dll
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\CRM.Models.pdb
+C:\SistemProject\Unopar\CRM.Models\obj\Debug\net9.0\ref\CRM.Models.dll

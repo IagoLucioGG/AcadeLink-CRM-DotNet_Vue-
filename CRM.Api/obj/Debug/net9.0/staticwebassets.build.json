@@ -1,0 +1,1794 @@
+{
+  "Version": 1,
+  "Hash": "ijPSHyQi9sAAe4pI5zNsQCsQDgQh0iiKgUBzGSFXIpA=",
+  "Source": "CRM.Api",
+  "BasePath": "_content/CRM.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRM.Api\\wwwroot",
+      "Source": "CRM.Api",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "index#[.{fingerprint=k61hp1kqc8}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ktggyhtp47",
+      "Integrity": "KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/index-C6o9yQMW#[.{fingerprint=871g7spye3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1xo3h0patm",
+      "Integrity": "5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "favicon#[.{fingerprint=r8e75ffup4}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yk37zmkkpl",
+      "Integrity": "4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/index-Bu8LtSWt#[.{fingerprint=636hcoogd1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rl5w4twv44",
+      "Integrity": "oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/index-Bu8LtSWt#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "636hcoogd1",
+      "Integrity": "EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-Bu8LtSWt.js"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/index-C6o9yQMW#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "871g7spye3",
+      "Integrity": "FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-C6o9yQMW.css"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/materialdesignicons-webfont-B7mPwVP_#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96sr9esf18",
+      "Integrity": "YeirpaTpgf4iz3yOi82+oAR251xiw38Bv37jM2HWhCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/materialdesignicons-webfont-CSr8KVlo#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fzdtwvzo12",
+      "Integrity": "CxgxBNL8XyYZbnc8d72vLgVQn9QlnS0V7O3Kebh+hPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/materialdesignicons-webfont-Dp5v-WZN#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu2whqkvhm",
+      "Integrity": "Zi/vqPL4qVwYWI0hd0eJwQfGTnccvmWmmvRikcQxGvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "assets/materialdesignicons-webfont-PXm3-2wK#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d25w1gdoq3",
+      "Integrity": "pZKKDVwvYk5G+Y2bFcL2AEU3f3xZTdeKF1kTLqO0Y+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8e75ffup4",
+      "Integrity": "23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k61hp1kqc8",
+      "Integrity": "PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-Bu8LtSWt.636hcoogd1.js",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005087479"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "636hcoogd1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Bu8LtSWt.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bu8LtSWt.636hcoogd1.js",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "602758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "636hcoogd1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Bu8LtSWt.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bu8LtSWt.636hcoogd1.js.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "636hcoogd1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Bu8LtSWt.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bu8LtSWt.js",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000005087479"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bu8LtSWt.js",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "602758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bu8LtSWt.js.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C6o9yQMW.871g7spye3.css",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008790668"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113756"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "871g7spye3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-C6o9yQMW.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C6o9yQMW.871g7spye3.css",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "801770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "871g7spye3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-C6o9yQMW.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C6o9yQMW.871g7spye3.css.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "871g7spye3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-C6o9yQMW.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C6o9yQMW.css",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008790668"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113756"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C6o9yQMW.css",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "801770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C6o9yQMW.css.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-B7mPwVP_.96sr9esf18.ttf",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YeirpaTpgf4iz3yOi82+oAR251xiw38Bv37jM2HWhCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96sr9esf18"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/materialdesignicons-webfont-B7mPwVP_.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YeirpaTpgf4iz3yOi82+oAR251xiw38Bv37jM2HWhCg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-B7mPwVP_.ttf",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YeirpaTpgf4iz3yOi82+oAR251xiw38Bv37jM2HWhCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YeirpaTpgf4iz3yOi82+oAR251xiw38Bv37jM2HWhCg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-CSr8KVlo.eot",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CxgxBNL8XyYZbnc8d72vLgVQn9QlnS0V7O3Kebh+hPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CxgxBNL8XyYZbnc8d72vLgVQn9QlnS0V7O3Kebh+hPk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-CSr8KVlo.fzdtwvzo12.eot",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1307880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CxgxBNL8XyYZbnc8d72vLgVQn9QlnS0V7O3Kebh+hPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzdtwvzo12"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/materialdesignicons-webfont-CSr8KVlo.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CxgxBNL8XyYZbnc8d72vLgVQn9QlnS0V7O3Kebh+hPk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-Dp5v-WZN.eu2whqkvhm.woff2",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zi/vqPL4qVwYWI0hd0eJwQfGTnccvmWmmvRikcQxGvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eu2whqkvhm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/materialdesignicons-webfont-Dp5v-WZN.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zi/vqPL4qVwYWI0hd0eJwQfGTnccvmWmmvRikcQxGvw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zi/vqPL4qVwYWI0hd0eJwQfGTnccvmWmmvRikcQxGvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zi/vqPL4qVwYWI0hd0eJwQfGTnccvmWmmvRikcQxGvw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-PXm3-2wK.d25w1gdoq3.woff",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZKKDVwvYk5G+Y2bFcL2AEU3f3xZTdeKF1kTLqO0Y+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d25w1gdoq3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/materialdesignicons-webfont-PXm3-2wK.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZKKDVwvYk5G+Y2bFcL2AEU3f3xZTdeKF1kTLqO0Y+s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/materialdesignicons-webfont-PXm3-2wK.woff",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pZKKDVwvYk5G+Y2bFcL2AEU3f3xZTdeKF1kTLqO0Y+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pZKKDVwvYk5G+Y2bFcL2AEU3f3xZTdeKF1kTLqO0Y+s="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001103752759"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Sep 2025 00:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Sep 2025 00:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Sep 2025 00:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.r8e75ffup4.ico",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001103752759"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Sep 2025 00:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8e75ffup4"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.r8e75ffup4.ico",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Sep 2025 00:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8e75ffup4"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.r8e75ffup4.ico.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Sep 2025 00:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8e75ffup4"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003484320557"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "286"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0="
+        }
+      ]
+    },
+    {
+      "Route": "index.k61hp1kqc8.html",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003484320557"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "286"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k61hp1kqc8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
+        }
+      ]
+    },
+    {
+      "Route": "index.k61hp1kqc8.html",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k61hp1kqc8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
+        }
+      ]
+    },
+    {
+      "Route": "index.k61hp1kqc8.html.gz",
+      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k61hp1kqc8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0="
+        }
+      ]
+    }
+  ]
+}

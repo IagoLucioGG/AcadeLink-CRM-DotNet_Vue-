@@ -10,6 +10,7 @@ namespace CRM.Models.Pagamento_
         public DateTime DataReferentePagamento { get; set; }
         public int IdFormaPagamento { get; set; }
         public int IdAluno { get; set; }
+        public int IdMatricula { get; set; }
         public decimal ValorDevido { get; set; }
         public decimal ValorPago { get; set; }
         public decimal ValorRestante { get; set; }

@@ -33,7 +33,7 @@
           <!-- Rodapé dentro do card -->
           <div class="text-center mt-6">
             <small class="text-grey-darken-1">
-              © {{ new Date().getFullYear() }} NexusCRM — Desenvolvido por <strong>Iago Lucio</strong>
+              © {{ new Date().getFullYear() }} AcadeLinkCRM — Desenvolvido por <strong>Iago Lucio</strong>
             </small>
           </div>
         </v-card>
@@ -42,7 +42,7 @@
       <!-- Rodapé fixo na tela -->
       <v-footer app padless class="footer-bar">
         <v-col class="text-center text-white py-2">
-          © {{ new Date().getFullYear() }} NexusCRM — Desenvolvido por <strong>Iago Lucio</strong>
+          © {{ new Date().getFullYear() }} AcadeLinkCRM — Desenvolvido por <strong>Iago Lucio</strong>
         </v-col>
       </v-footer>
     </v-main>

@@ -3,6 +3,7 @@ namespace CRM.DTOs.Aluno_
     public class AlunoCadastroDto
     {
         public string NmAluno { get; set; } = string.Empty;
+        public string CPF { get; set; } = string.Empty;
         public long Telefone { get; set; }
         public string Email { get; set; } = string.Empty;
     }
@@ -11,6 +12,7 @@ namespace CRM.DTOs.Aluno_
     {
         public int IdAluno { get; set; }
         public string NmAluno { get; set; } = string.Empty;
+        public string CPF { get; set; } = string.Empty;
         public long Telefone { get; set; }
         public string Email { get; set; } = string.Empty;
     }
@@ -19,6 +21,7 @@ namespace CRM.DTOs.Aluno_
     {
         public int IdAluno { get; set; }
         public string NmAluno { get; set; } = string.Empty;
+        public string CPF { get; set; } = string.Empty;
         public long Telefone { get; set; }
         public string Email { get; set; } = string.Empty;
     }

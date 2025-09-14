@@ -1,9 +1,9 @@
 using CRM.Data;
-using CRM.Maps;
 using CRM.Models.Pagamento_;
 using CRM.DTOs.Pagamento_;
 using Microsoft.EntityFrameworkCore;
 using CRM.Services.Util_;
+using CRM.Maps;
 
 namespace CRM.Services.Pagamento_
 {
@@ -23,14 +23,16 @@ namespace CRM.Services.Pagamento_
             int idEmpresa = await _util.GetIdEmpresaFromToken();
 
             var pagamento = MapeadorModels.Montar<Pagamento, PagamentoCadastroDto>(dto);
-            pagamento.IdEmpresa = idEmpresa; // Vincula ao IdEmpresa do token
+            pagamento.IdEmpresa = idEmpresa;
             pagamento.DataInclusao = DateTime.Now;
+            pagamento.ValorRestante = pagamento.ValorDevido - pagamento.ValorPago;
 
             _context.Pagamentos.Add(pagamento);
             await _context.SaveChangesAsync();
 
-            return MapeadorModels.Montar<PagamentoRetornoDto, Pagamento>(pagamento);
+            return await BuscarPorIdAsync(pagamento.IdPagamento);
         }
+
 
         public async Task<PagamentoRetornoDto?> EditarAsync(PagamentoEdicaoDto dto)
         {
@@ -43,9 +45,10 @@ namespace CRM.Services.Pagamento_
                 return null;
 
             MapeadorModels.CopiarPropriedades(dto, pagamentoDb);
+            pagamentoDb.ValorRestante = dto.ValorDevido - dto.ValorPago;
             await _context.SaveChangesAsync();
 
-            return MapeadorModels.Montar<PagamentoRetornoDto, Pagamento>(pagamentoDb);
+            return await BuscarPorIdAsync(pagamentoDb.IdPagamento);
         }
 
         public async Task<PagamentoRetornoDto?> BuscarPorIdAsync(int id)
@@ -53,22 +56,101 @@ namespace CRM.Services.Pagamento_
             int idEmpresa = await _util.GetIdEmpresaFromToken();
 
             var pagamento = await _context.Pagamentos
-                .FirstOrDefaultAsync(p => p.IdPagamento == id && p.IdEmpresa == idEmpresa);
+                .Where(p => p.IdPagamento == id && p.IdEmpresa == idEmpresa)
+                .Select(p => new PagamentoRetornoDto
+                {
+                    IdPagamento = p.IdPagamento,
+                    DataInclusao = p.DataInclusao,
+                    DataReferentePagamento = p.DataReferentePagamento,
 
-            if (pagamento == null)
-                return null;
+                    Aluno = _context.Alunos
+                        .Where(a => a.IdAluno == p.IdAluno)
+                        .Select(a => new AlunoDto
+                        {
+                            IdAluno = a.IdAluno,
+                            NmAluno = a.NmAluno,
+                            Email = a.Email,
+                            Telefone = a.Telefone
+                        })
+                        .FirstOrDefault(),
 
-            return MapeadorModels.Montar<PagamentoRetornoDto, Pagamento>(pagamento);
+                    Matricula = _context.CursoAlunos
+                        .Where(m => m.IdCursoAluno == p.IdMatricula)
+                        .Select(m => new MatriculaDto
+                        {
+                            IdMatricula = m.IdCursoAluno,
+                            NrMatricula = m.NrMatricula,
+                            DataMatricula = m.DataMatricula
+                        })
+                        .FirstOrDefault(),
+
+                    FormaPagamento = _context.FormaPagamentos
+                        .Where(f => f.IdFormaPagamento == p.IdFormaPagamento)
+                        .Select(f => new FormaPagamentoDto
+                        {
+                            IdFormaPagamento = f.IdFormaPagamento,
+                            Nome = f.NmFormaPagamento
+                        })
+                        .FirstOrDefault(),
+
+                    ValorDevido = p.ValorDevido,
+                    ValorPago = p.ValorPago,
+                    ValorRestante = p.ValorRestante
+                })
+                .FirstOrDefaultAsync();
+
+            return pagamento;
         }
 
         public async Task<List<PagamentoRetornoDto>> ListarTodosAsync()
         {
             int idEmpresa = await _util.GetIdEmpresaFromToken();
 
-            return await _context.Pagamentos
+            var pagamentos = await _context.Pagamentos
                 .Where(p => p.IdEmpresa == idEmpresa)
-                .Select(p => MapeadorModels.Montar<PagamentoRetornoDto, Pagamento>(p))
+                .Select(p => new PagamentoRetornoDto
+                {
+                    IdPagamento = p.IdPagamento,
+                    DataInclusao = p.DataInclusao,
+                    DataReferentePagamento = p.DataReferentePagamento,
+
+                    Aluno = _context.Alunos
+                        .Where(a => a.IdAluno == p.IdAluno)
+                        .Select(a => new AlunoDto
+                        {
+                            IdAluno = a.IdAluno,
+                            NmAluno = a.NmAluno,
+                            Email = a.Email,
+                            Telefone = a.Telefone
+                        })
+                        .FirstOrDefault(),
+
+                    Matricula = _context.CursoAlunos
+                        .Where(m => m.IdCursoAluno == p.IdMatricula)
+                        .Select(m => new MatriculaDto
+                        {
+                            IdMatricula = m.IdCursoAluno,
+                            NrMatricula = m.NrMatricula,
+                            DataMatricula = m.DataMatricula
+                        })
+                        .FirstOrDefault(),
+
+                    FormaPagamento = _context.FormaPagamentos
+                        .Where(f => f.IdFormaPagamento == p.IdFormaPagamento)
+                        .Select(f => new FormaPagamentoDto
+                        {
+                            IdFormaPagamento = f.IdFormaPagamento,
+                            Nome = f.NmFormaPagamento
+                        })
+                        .FirstOrDefault(),
+
+                    ValorDevido = p.ValorDevido,
+                    ValorPago = p.ValorPago,
+                    ValorRestante = p.ValorRestante
+                })
                 .ToListAsync();
+
+            return pagamentos;
         }
 
         public async Task<bool> ExcluirAsync(int id)

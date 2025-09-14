@@ -1,35 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
-      "PackagePath": "staticwebassets\\assets\\index-Bu8LtSWt.js"
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-DWM0MgG9.js",
+      "PackagePath": "staticwebassets\\assets\\index-DWM0MgG9.js"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
-      "PackagePath": "staticwebassets\\assets\\index-C6o9yQMW.css"
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-nI-AuJm0.css",
+      "PackagePath": "staticwebassets\\assets\\index-nI-AuJm0.css"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
       "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
       "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-CSr8KVlo.eot"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
       "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
       "PackagePath": "staticwebassets\\assets\\materialdesignicons-webfont-PXm3-2wK.woff"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.svg",
+      "PackagePath": "staticwebassets\\favicon.svg"
+    },
+    {
+      "Id": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

@@ -76,23 +76,11 @@
         "dependencies": {
           "Microsoft.AspNetCore.Http.Features": "2.3.0",
           "System.Text.Encodings.Web": "8.0.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
-            "assemblyVersion": "2.3.0.0",
-            "fileVersion": "2.3.0.25014"
-          }
         }
       },
       "Microsoft.AspNetCore.Http.Features/2.3.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "9.0.8"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
-            "assemblyVersion": "2.3.0.0",
-            "fileVersion": "2.3.0.25014"
-          }
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {

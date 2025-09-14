@@ -3,6 +3,7 @@ using CRM.Data;
 using CRM.Models.Empresa_;
 using Microsoft.AspNetCore.Http;
 using System.Security.Claims;
+using CRM.Exceptions;
 
 
 
@@ -44,14 +45,14 @@ namespace CRM.Services.Util_
             var claim = _httpContextAccessor.HttpContext?.User.FindFirst("idEmpresa")?.Value;
 
             if (string.IsNullOrEmpty(claim))
-                throw new Exception("IdEmpresa não encontrado no token.");
+                throw new NotFoundException("IdEmpresa não encontrado no token.");
 
             if (!int.TryParse(claim, out int idEmpresa))
-                throw new Exception("IdEmpresa inválido no token.");
+                throw new BadRequestException("IdEmpresa inválido no token.");
 
             var empresa = await VerificaEmpresa(claim);
             if (!empresa)
-                throw new Exception("Empresa não existe no banco de dados ou não está ativa.");
+                throw new NotFoundException("Empresa não existe no banco de dados ou não está ativa.");
 
             return idEmpresa;
         }
@@ -61,10 +62,10 @@ namespace CRM.Services.Util_
             var claim = _httpContextAccessor.HttpContext?.User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
 
             if (string.IsNullOrEmpty(claim))
-                throw new Exception("IdUsuario não encontrado no token.");
+                throw new NotFoundException("IdUsuario não encontrado no token.");
 
             if (!int.TryParse(claim, out int idUsuario))
-                throw new Exception("IdUsuario inválido no token.");
+                throw new BadRequestException("IdUsuario inválido no token.");
 
             return idUsuario;
         }

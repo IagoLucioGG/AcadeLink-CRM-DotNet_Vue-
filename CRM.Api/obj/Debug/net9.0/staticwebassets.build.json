@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ijPSHyQi9sAAe4pI5zNsQCsQDgQh0iiKgUBzGSFXIpA=",
+  "Hash": "icyxhhav4LCED8uF2R3Y2cPrHh++bsbYdVLu4tpURdE=",
   "Source": "CRM.Api",
   "BasePath": "_content/CRM.Api",
   "Mode": "Default",
@@ -10,59 +10,80 @@
     {
       "Name": "CRM.Api\\wwwroot",
       "Source": "CRM.Api",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\2ziwb8farc-0q4thyzi8o.gz",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRM.Api",
-      "RelativePath": "index#[.{fingerprint=k61hp1kqc8}]?.html.gz",
+      "RelativePath": "assets/index-nI-AuJm0#[.{fingerprint=0q4thyzi8o}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-nI-AuJm0.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ktggyhtp47",
-      "Integrity": "KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=",
+      "Fingerprint": "11yk1a5jku",
+      "Integrity": "RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-nI-AuJm0.css"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\4l2zegi02n-bd724eg9qu.gz",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRM.Api",
-      "RelativePath": "assets/index-C6o9yQMW#[.{fingerprint=871g7spye3}]?.css.gz",
+      "RelativePath": "favicon#[.{fingerprint=bd724eg9qu}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "RelatedAsset": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1xo3h0patm",
-      "Integrity": "5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=",
+      "Fingerprint": "hwjjq0gjoo",
+      "Integrity": "gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css"
+      "OriginalItemSpec": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.svg"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-0j57f6tjc9.gz",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "index#[.{fingerprint=0j57f6tjc9}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pllh59t6u3",
+      "Integrity": "ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "favicon#[.{fingerprint=r8e75ffup4}]?.ico.gz",
       "AssetKind": "All",
@@ -70,43 +91,43 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "yk37zmkkpl",
       "Integrity": "4mgHj9tcIDg3w+1I32TMBh3LwWdhlt10Otk9z8hy87g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\ykmiko3lmh-8nlpgbpqae.gz",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRM.Api",
-      "RelativePath": "assets/index-Bu8LtSWt#[.{fingerprint=636hcoogd1}]?.js.gz",
+      "RelativePath": "assets/index-DWM0MgG9#[.{fingerprint=8nlpgbpqae}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "RelatedAsset": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-DWM0MgG9.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rl5w4twv44",
-      "Integrity": "oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=",
+      "Fingerprint": "nn6gk4bz8m",
+      "Integrity": "sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js"
+      "OriginalItemSpec": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-DWM0MgG9.js"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-DWM0MgG9.js",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
-      "RelativePath": "assets/index-Bu8LtSWt#[.{fingerprint}]?.js",
+      "RelativePath": "assets/index-DWM0MgG9#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,19 +136,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "636hcoogd1",
-      "Integrity": "EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=",
+      "Fingerprint": "8nlpgbpqae",
+      "Integrity": "1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-Bu8LtSWt.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-DWM0MgG9.js"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-nI-AuJm0.css",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
-      "RelativePath": "assets/index-C6o9yQMW#[.{fingerprint}]?.css",
+      "RelativePath": "assets/index-nI-AuJm0#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -136,17 +157,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "871g7spye3",
-      "Integrity": "FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=",
+      "Fingerprint": "0q4thyzi8o",
+      "Integrity": "KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-C6o9yQMW.css"
+      "OriginalItemSpec": "wwwroot\\assets\\index-nI-AuJm0.css"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "assets/materialdesignicons-webfont-B7mPwVP_#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -164,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "assets/materialdesignicons-webfont-CSr8KVlo#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -185,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "assets/materialdesignicons-webfont-Dp5v-WZN#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -206,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "assets/materialdesignicons-webfont-PXm3-2wK#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -227,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.ico",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -248,10 +269,31 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.svg",
       "SourceId": "CRM.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
+      "BasePath": "_content/CRM.Api",
+      "RelativePath": "favicon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bd724eg9qu",
+      "Integrity": "z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.svg"
+    },
+    {
+      "Identity": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\index.html",
+      "SourceId": "CRM.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\",
       "BasePath": "_content/CRM.Api",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -262,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k61hp1kqc8",
-      "Integrity": "PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=",
+      "Fingerprint": "0j57f6tjc9",
+      "Integrity": "RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -271,13 +313,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "assets/index-Bu8LtSWt.636hcoogd1.js",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Route": "assets/index-DWM0MgG9.8nlpgbpqae.js",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\ykmiko3lmh-8nlpgbpqae.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000005087479"
+          "Quality": "0.000004913546"
         }
       ],
       "ResponseHeaders": [
@@ -287,15 +329,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "196560"
+          "Value": "203518"
         },
         {
           "Name": "ETag",
-          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+          "Value": "\"sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -315,27 +357,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+          "Value": "W/\"1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "636hcoogd1"
+          "Value": "8nlpgbpqae"
         },
         {
           "Name": "label",
-          "Value": "assets/index-Bu8LtSWt.js"
+          "Value": "assets/index-DWM0MgG9.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+          "Value": "sha256-1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o="
         }
       ]
     },
     {
-      "Route": "assets/index-Bu8LtSWt.636hcoogd1.js",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "Route": "assets/index-DWM0MgG9.8nlpgbpqae.js",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-DWM0MgG9.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -344,7 +386,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "602758"
+          "Value": "633800"
         },
         {
           "Name": "Content-Type",
@@ -352,11 +394,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+          "Value": "\"1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -366,21 +408,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "636hcoogd1"
+          "Value": "8nlpgbpqae"
         },
         {
           "Name": "label",
-          "Value": "assets/index-Bu8LtSWt.js"
+          "Value": "assets/index-DWM0MgG9.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+          "Value": "sha256-1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o="
         }
       ]
     },
     {
-      "Route": "assets/index-Bu8LtSWt.636hcoogd1.js.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Route": "assets/index-DWM0MgG9.8nlpgbpqae.js.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\ykmiko3lmh-8nlpgbpqae.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "196560"
+          "Value": "203518"
         },
         {
           "Name": "Content-Type",
@@ -397,11 +439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+          "Value": "\"sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -419,26 +461,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "636hcoogd1"
+          "Value": "8nlpgbpqae"
         },
         {
           "Name": "label",
-          "Value": "assets/index-Bu8LtSWt.js.gz"
+          "Value": "assets/index-DWM0MgG9.js.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs="
+          "Value": "sha256-sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss="
         }
       ]
     },
     {
-      "Route": "assets/index-Bu8LtSWt.js",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Route": "assets/index-DWM0MgG9.js",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\ykmiko3lmh-8nlpgbpqae.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000005087479"
+          "Quality": "0.000004913546"
         }
       ],
       "ResponseHeaders": [
@@ -448,15 +490,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "196560"
+          "Value": "203518"
         },
         {
           "Name": "ETag",
-          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+          "Value": "\"sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -476,19 +518,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+          "Value": "W/\"1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+          "Value": "sha256-1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o="
         }
       ]
     },
     {
-      "Route": "assets/index-Bu8LtSWt.js",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-Bu8LtSWt.js",
+      "Route": "assets/index-DWM0MgG9.js",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-DWM0MgG9.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -497,7 +539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "602758"
+          "Value": "633800"
         },
         {
           "Name": "Content-Type",
@@ -505,11 +547,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts=\""
+          "Value": "\"1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -519,13 +561,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EqVd/g7GW/RsKW9ysr4Ja/dx7nF+gyqQR/EXyWvV2ts="
+          "Value": "sha256-1GVepSeUP/d/enBMHPhgas81FY9p9NhwItofGaPNR/o="
         }
       ]
     },
     {
-      "Route": "assets/index-Bu8LtSWt.js.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\wm7f00wcr0-636hcoogd1.gz",
+      "Route": "assets/index-DWM0MgG9.js.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\ykmiko3lmh-8nlpgbpqae.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -534,7 +576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "196560"
+          "Value": "203518"
         },
         {
           "Name": "Content-Type",
@@ -542,11 +584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs=\""
+          "Value": "\"sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -564,18 +606,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oUPu/EzTYxuFaTf8qo/FhTyKEWqWQGHDKbej6VaPEXs="
+          "Value": "sha256-sxmPhFYvMY0ulGxVuwS/PNTmG3Uy5gOzlmDzHkePGss="
         }
       ]
     },
     {
-      "Route": "assets/index-C6o9yQMW.871g7spye3.css",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Route": "assets/index-nI-AuJm0.0q4thyzi8o.css",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\2ziwb8farc-0q4thyzi8o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000008790668"
+          "Quality": "0.000008730422"
         }
       ],
       "ResponseHeaders": [
@@ -585,15 +627,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "113756"
+          "Value": "114541"
         },
         {
           "Name": "ETag",
-          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+          "Value": "\"RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -613,27 +655,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+          "Value": "W/\"KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "871g7spye3"
+          "Value": "0q4thyzi8o"
         },
         {
           "Name": "label",
-          "Value": "assets/index-C6o9yQMW.css"
+          "Value": "assets/index-nI-AuJm0.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+          "Value": "sha256-KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ="
         }
       ]
     },
     {
-      "Route": "assets/index-C6o9yQMW.871g7spye3.css",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "Route": "assets/index-nI-AuJm0.0q4thyzi8o.css",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-nI-AuJm0.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -642,7 +684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "801770"
+          "Value": "805360"
         },
         {
           "Name": "Content-Type",
@@ -650,11 +692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+          "Value": "\"KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -664,21 +706,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "871g7spye3"
+          "Value": "0q4thyzi8o"
         },
         {
           "Name": "label",
-          "Value": "assets/index-C6o9yQMW.css"
+          "Value": "assets/index-nI-AuJm0.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+          "Value": "sha256-KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ="
         }
       ]
     },
     {
-      "Route": "assets/index-C6o9yQMW.871g7spye3.css.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Route": "assets/index-nI-AuJm0.0q4thyzi8o.css.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\2ziwb8farc-0q4thyzi8o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -687,7 +729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "113756"
+          "Value": "114541"
         },
         {
           "Name": "Content-Type",
@@ -695,11 +737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+          "Value": "\"RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -717,26 +759,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "871g7spye3"
+          "Value": "0q4thyzi8o"
         },
         {
           "Name": "label",
-          "Value": "assets/index-C6o9yQMW.css.gz"
+          "Value": "assets/index-nI-AuJm0.css.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo="
+          "Value": "sha256-RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158="
         }
       ]
     },
     {
-      "Route": "assets/index-C6o9yQMW.css",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Route": "assets/index-nI-AuJm0.css",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\2ziwb8farc-0q4thyzi8o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000008790668"
+          "Quality": "0.000008730422"
         }
       ],
       "ResponseHeaders": [
@@ -746,15 +788,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "113756"
+          "Value": "114541"
         },
         {
           "Name": "ETag",
-          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+          "Value": "\"RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -774,19 +816,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+          "Value": "W/\"KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+          "Value": "sha256-KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ="
         }
       ]
     },
     {
-      "Route": "assets/index-C6o9yQMW.css",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\index-C6o9yQMW.css",
+      "Route": "assets/index-nI-AuJm0.css",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\index-nI-AuJm0.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -795,7 +837,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "801770"
+          "Value": "805360"
         },
         {
           "Name": "Content-Type",
@@ -803,11 +845,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc=\""
+          "Value": "\"KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -817,13 +859,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FNHPorELVnETenE6BWrEvyUOug1/eSl2uaON5vCyYKc="
+          "Value": "sha256-KOYZ65Yo2ZhvoZDgbujFaOui92LjmS0ZMdL7aP6AYEQ="
         }
       ]
     },
     {
-      "Route": "assets/index-C6o9yQMW.css.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\oeertbu6f8-871g7spye3.gz",
+      "Route": "assets/index-nI-AuJm0.css.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\2ziwb8farc-0q4thyzi8o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -832,7 +874,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "113756"
+          "Value": "114541"
         },
         {
           "Name": "Content-Type",
@@ -840,11 +882,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo=\""
+          "Value": "\"RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -862,13 +904,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5WEymi0EwKVACXvsW4LkK0dHhIvG3f7KvdbwuZpkZfo="
+          "Value": "sha256-RQIJDm5PiEYrQiHsBee10WdR31jK6fbvO8BWhvb4158="
         }
       ]
     },
     {
       "Route": "assets/materialdesignicons-webfont-B7mPwVP_.96sr9esf18.ttf",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -889,7 +931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -913,7 +955,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-B7mPwVP_.ttf",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-B7mPwVP_.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -934,7 +976,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -950,7 +992,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-CSr8KVlo.eot",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -971,7 +1013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -987,7 +1029,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-CSr8KVlo.fzdtwvzo12.eot",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-CSr8KVlo.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1008,7 +1050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1032,7 +1074,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-Dp5v-WZN.eu2whqkvhm.woff2",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1053,7 +1095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1077,7 +1119,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-Dp5v-WZN.woff2",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-Dp5v-WZN.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1098,7 +1140,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1114,7 +1156,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-PXm3-2wK.d25w1gdoq3.woff",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1135,7 +1177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1159,7 +1201,7 @@
     },
     {
       "Route": "assets/materialdesignicons-webfont-PXm3-2wK.woff",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\assets\\materialdesignicons-webfont-PXm3-2wK.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1180,7 +1222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1195,8 +1237,169 @@
       ]
     },
     {
+      "Route": "favicon.bd724eg9qu.svg",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\4l2zegi02n-bd724eg9qu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 03:31:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bd724eg9qu"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.bd724eg9qu.svg",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 03:31:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bd724eg9qu"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.bd724eg9qu.svg.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\4l2zegi02n-bd724eg9qu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 03:31:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bd724eg9qu"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8="
+        }
+      ]
+    },
+    {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1251,7 +1454,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1288,7 +1491,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1333,7 +1536,7 @@
     },
     {
       "Route": "favicon.r8e75ffup4.ico",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1396,7 +1599,7 @@
     },
     {
       "Route": "favicon.r8e75ffup4.ico",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1441,7 +1644,7 @@
     },
     {
       "Route": "favicon.r8e75ffup4.ico.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\q6mlsw4dbs-r8e75ffup4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1493,13 +1696,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
+      "Route": "favicon.svg",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\4l2zegi02n-bd724eg9qu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003484320557"
+          "Quality": "0.002304147465"
         }
       ],
       "ResponseHeaders": [
@@ -1509,15 +1712,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "286"
+          "Value": "433"
         },
         {
           "Name": "ETag",
-          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
+          "Value": "\"gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 03:31:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1533,23 +1736,168 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+          "Value": "W/\"z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
+          "Value": "sha256-z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "Route": "favicon.svg",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\favicon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 03:31:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z03gJXJjO952cPI3nuSc4vDANEYMZDpDNAeJwg4UntY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.svg.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\4l2zegi02n-bd724eg9qu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 03:31:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQUg52b76JVQ11SeNvtV7tsiKN/tTNEk2Nh8VEdH/J8="
+        }
+      ]
+    },
+    {
+      "Route": "index.0j57f6tjc9.html",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-0j57f6tjc9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003472222222"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0j57f6tjc9"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts="
+        }
+      ]
+    },
+    {
+      "Route": "index.0j57f6tjc9.html",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1566,121 +1914,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+          "Value": "\"RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "286"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0="
-        }
-      ]
-    },
-    {
-      "Route": "index.k61hp1kqc8.html",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003484320557"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "286"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k61hp1kqc8"
+          "Value": "0j57f6tjc9"
         },
         {
           "Name": "label",
@@ -1688,13 +1936,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
+          "Value": "sha256-RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts="
         }
       ]
     },
     {
-      "Route": "index.k61hp1kqc8.html",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\wwwroot\\index.html",
+      "Route": "index.0j57f6tjc9.html.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-0j57f6tjc9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1703,7 +1951,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "428"
+          "Value": "287"
         },
         {
           "Name": "Content-Type",
@@ -1711,56 +1959,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4=\""
+          "Value": "\"ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k61hp1kqc8"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PD0TjGFuM+hFJ5UfjDfX8CE9KPLhEdqMgjwBICp01v4="
-        }
-      ]
-    },
-    {
-      "Route": "index.k61hp1kqc8.html.gz",
-      "AssetFile": "C:\\SistemProject\\Unopar\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-k61hp1kqc8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "286"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 18:44:51 GMT"
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1778,7 +1981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k61hp1kqc8"
+          "Value": "0j57f6tjc9"
         },
         {
           "Name": "label",
@@ -1786,7 +1989,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KA8B4Q2t/IZhtnBgc1wvfK+7T7Gl3b4pPvjUi30fce0="
+          "Value": "sha256-ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-0j57f6tjc9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003472222222"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBEnB9wNolXpP8R2pTa6T7lm/KCQVQMfdUZmaWF05ts="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Api\\obj\\Debug\\net9.0\\compressed\\c9mh2408kk-0j57f6tjc9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Sep 2025 23:29:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncDApU3cIaNNBAMmMa29KNZrJX1Zkof8XZcKlI3cm9E="
         }
       ]
     }

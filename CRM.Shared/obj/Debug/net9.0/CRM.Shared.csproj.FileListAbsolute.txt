@@ -9,3 +9,16 @@ C:\SistemProject\Unopar\CRM.Shared\obj\Debug\net9.0\CRM.Shared.dll
 C:\SistemProject\Unopar\CRM.Shared\obj\Debug\net9.0\refint\CRM.Shared.dll
 C:\SistemProject\Unopar\CRM.Shared\obj\Debug\net9.0\CRM.Shared.pdb
 C:\SistemProject\Unopar\CRM.Shared\obj\Debug\net9.0\ref\CRM.Shared.dll
+C:\SistemProject\Unopar\CRM.Shared\obj\Debug\net9.0\CRM.Shared.sourcelink.json
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\bin\Debug\net9.0\CRM.Shared.deps.json
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\bin\Debug\net9.0\CRM.Shared.dll
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\bin\Debug\net9.0\CRM.Shared.pdb
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.AssemblyInfoInputs.cache
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.AssemblyInfo.cs
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.csproj.CoreCompileInputs.cache
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.sourcelink.json
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.dll
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\refint\CRM.Shared.dll
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\CRM.Shared.pdb
+C:\SistemProject\AcadeLink-CRM-DotNet_Vue-\CRM.Shared\obj\Debug\net9.0\ref\CRM.Shared.dll

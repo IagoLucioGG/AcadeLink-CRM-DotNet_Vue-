@@ -11,6 +11,8 @@ namespace CRM.Models.Aluno_Cliente
         [StringLength(100, ErrorMessage = "O nome do aluno não pode ter mais que 100 caracteres.")]
         public string NmAluno { get; set; } = string.Empty;
 
+        public string CPF { get; set; } = string.Empty;
+
 
         [EmailAddress(ErrorMessage = "O e-mail informado não é válido.")]
         [StringLength(150, ErrorMessage = "O e-mail não pode ter mais que 150 caracteres.")]

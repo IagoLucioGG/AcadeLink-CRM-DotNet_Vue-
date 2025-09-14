@@ -9,6 +9,9 @@ import Usuarios from '@/views/UsuariosView.vue'
 import Alunos from '@/views/AlunoView.vue' 
 import Modalidades from '@/views/ModalidadesView.vue'
 import Cursos from '@/views/CursoView.vue'
+import Matriculas from '@/views/CursoAlunoView.vue'
+import Polos from '@/views/PoloView.vue'
+import Pagamentos from '@/views/PagamentoView.vue'
 
 const routes = [
   {
@@ -25,7 +28,10 @@ const routes = [
     { path: 'usuarios', name: 'Usuarios', component: Usuarios },
     { path: 'alunos', name: 'Alunos', component: Alunos },
     { path: 'curso', name: 'Cursos', component: Cursos },
-    { path: 'modalidades', name: 'Modalidades', component: Modalidades }
+    { path: 'modalidades', name: 'Modalidades', component: Modalidades },
+    { path: 'Matricula', name: 'Matriculas', component: Matriculas },
+    { path: 'Polo', name: 'Polos', component: Polos },
+    { path: 'Pagamento', name: 'Pagamentos', component: Pagamentos }
       // futuras páginas:
       // { path: 'clientes', name: 'Clientes', component: () => import('@/views/Clientes.vue') },
     ]

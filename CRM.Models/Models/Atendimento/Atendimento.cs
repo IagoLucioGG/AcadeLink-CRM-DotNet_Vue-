@@ -8,6 +8,7 @@ namespace CRM.Models.Atendimento_
     {
         [Key]
         public int IdAtendimento { get; set; }
+        public int Cdchamada { get; set; }
         public int IdAluno { get; set; }
         [Required]
         public int IdUsuario { get; set; }

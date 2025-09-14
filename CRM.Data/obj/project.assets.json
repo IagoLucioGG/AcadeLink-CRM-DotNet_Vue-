@@ -1943,7 +1943,10 @@
         },
         "runtime": {
           "bin/placeholder/CRM.Shared.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },

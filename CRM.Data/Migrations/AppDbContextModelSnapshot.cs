@@ -30,6 +30,10 @@ namespace CRM.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdAluno"));
 
+                    b.Property<string>("CPF")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasMaxLength(150)
@@ -58,6 +62,9 @@ namespace CRM.Data.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdAtendimento"));
+
+                    b.Property<int>("Cdchamada")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("DataAtendimento")
                         .HasColumnType("datetime2");
@@ -114,7 +121,7 @@ namespace CRM.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdCursoAluno"));
 
-                    b.Property<DateTime>("DataCancelamento")
+                    b.Property<DateTime?>("DataCancelamento")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime>("DataMatricula")
@@ -237,6 +244,9 @@ namespace CRM.Data.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("IdFormaPagamento")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdMatricula")
                         .HasColumnType("int");
 
                     b.Property<decimal>("ValorDevido")

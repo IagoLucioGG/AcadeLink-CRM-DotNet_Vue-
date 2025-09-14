@@ -4,6 +4,7 @@ using CRM.Models.Aluno_Cliente;
 using CRM.DTOs.Aluno_;
 using Microsoft.EntityFrameworkCore;
 using CRM.Services.Util_;
+using CRM.Exceptions;
 
 namespace CRM.Services.Aluno_
 {
@@ -20,9 +21,13 @@ namespace CRM.Services.Aluno_
 
         public async Task<AlunoRetornoDto> CadastrarAlunoAsync(AlunoCadastroDto dto)
         {
-            int IdEmpresa = await _util.GetIdEmpresaFromToken();
+            
+            int idEmpresa = await _util.GetIdEmpresaFromToken();
+            var alunoExistente = await _context.Alunos.FirstOrDefaultAsync(a => a.CPF == dto.CPF && a.IdEmpresa == idEmpresa);
+            if (alunoExistente != null)
+                throw new ConflictException($"Já existe um Aluno com esse CPF: {alunoExistente.NmAluno}");
             var aluno = MapeadorModels.Montar<Aluno, AlunoCadastroDto>(dto);
-            aluno.IdEmpresa = IdEmpresa;
+            aluno.IdEmpresa = idEmpresa;
 
             _context.Alunos.Add(aluno);
             await _context.SaveChangesAsync();
@@ -33,6 +38,10 @@ namespace CRM.Services.Aluno_
         public async Task<AlunoRetornoDto?> EditarAlunoAsync(AlunoEdicaoDto dto)
         {
             int idEmpresa = await _util.GetIdEmpresaFromToken();
+            var alunoExistente = await _context.Alunos.FirstOrDefaultAsync(a => a.CPF == dto.CPF && a.IdAluno != dto.IdAluno &&  a.IdEmpresa == idEmpresa);
+            if (alunoExistente != null)
+                throw new ConflictException($"Já existe um Aluno com esse CPF: {alunoExistente.NmAluno}");
+            
             var alunoDb = await _context.Alunos.FirstOrDefaultAsync(a=> a.IdAluno == dto.IdAluno && a.IdEmpresa == idEmpresa);
             if (alunoDb == null)
                 return null;

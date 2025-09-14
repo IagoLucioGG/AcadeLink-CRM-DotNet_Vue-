@@ -38,6 +38,20 @@
         <v-list-item :to="{ name: 'Modalidades' }" prepend-icon="mdi-monitor" link>
           <v-list-item-title>Modalidades</v-list-item-title>
         </v-list-item>
+        
+        <v-list-item :to="{ name: 'Polos' }" prepend-icon="mdi-google-maps" link>
+          <v-list-item-title>Polos</v-list-item-title>
+        </v-list-item>
+
+        <v-list-item :to="{ name: 'Matriculas' }" prepend-icon="mdi-library-shelves" link>
+          <v-list-item-title>Matriculas</v-list-item-title>
+        </v-list-item>
+
+        <v-list-item :to="{ name: 'Pagamentos' }" prepend-icon="mdi-account-cash" link>
+          <v-list-item-title>Pagamentos</v-list-item-title>
+        </v-list-item>
+
+        
       </v-list>
 
       <!-- Rodapé -->

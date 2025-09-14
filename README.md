@@ -1,5 +1,5 @@
 
-# NEXUSCRM
+# AcadeLinkCRM
 
 Sistema de gerenciamento desenvolvido com Vue 3 + Vuetify no frontend e .NET 8 no backend, utilizando autenticação JWT e arquitetura de API REST.  
 O objetivo é permitir o controle eficiente de usuários, alunos, modalidades e cursos, com segurança e escalabilidade.  

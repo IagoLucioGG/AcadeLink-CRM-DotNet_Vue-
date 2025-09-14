@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SistemProject\\Unopar\\CRM.Shared\\CRM.Shared.csproj": {}
+    "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\CRM.Shared.csproj": {}
   },
   "projects": {
-    "C:\\SistemProject\\Unopar\\CRM.Shared\\CRM.Shared.csproj": {
+    "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\CRM.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SistemProject\\Unopar\\CRM.Shared\\CRM.Shared.csproj",
+        "projectUniqueName": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\CRM.Shared.csproj",
         "projectName": "CRM.Shared",
-        "projectPath": "C:\\SistemProject\\Unopar\\CRM.Shared\\CRM.Shared.csproj",
+        "projectPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\CRM.Shared.csproj",
         "packagesPath": "C:\\Users\\Iago\\.nuget\\packages\\",
-        "outputPath": "C:\\SistemProject\\Unopar\\CRM.Shared\\obj\\",
+        "outputPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

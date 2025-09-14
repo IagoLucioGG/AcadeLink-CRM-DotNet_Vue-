@@ -5652,11 +5652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SistemProject\\Unopar\\CRM.Data\\CRM.Data.csproj",
+      "projectUniqueName": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Data\\CRM.Data.csproj",
       "projectName": "CRM.Data",
-      "projectPath": "C:\\SistemProject\\Unopar\\CRM.Data\\CRM.Data.csproj",
+      "projectPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Data\\CRM.Data.csproj",
       "packagesPath": "C:\\Users\\Iago\\.nuget\\packages\\",
-      "outputPath": "C:\\SistemProject\\Unopar\\CRM.Data\\obj\\",
+      "outputPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5677,11 +5677,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\SistemProject\\Unopar\\CRM.Models\\CRM.Models.csproj": {
-              "projectPath": "C:\\SistemProject\\Unopar\\CRM.Models\\CRM.Models.csproj"
+            "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Models\\CRM.Models.csproj": {
+              "projectPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Models\\CRM.Models.csproj"
             },
-            "C:\\SistemProject\\Unopar\\CRM.Shared\\CRM.Shared.csproj": {
-              "projectPath": "C:\\SistemProject\\Unopar\\CRM.Shared\\CRM.Shared.csproj"
+            "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\CRM.Shared.csproj": {
+              "projectPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Shared\\CRM.Shared.csproj"
             }
           }
         }

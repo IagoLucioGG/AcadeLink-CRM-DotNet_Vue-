@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acuNSVuCGHc=",
+  "dgSpecHash": "2ByTfx8Pvds=",
   "success": true,
-  "projectFilePath": "C:\\SistemProject\\Unopar\\CRM.Data\\CRM.Data.csproj",
+  "projectFilePath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Data\\CRM.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iago\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Iago\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SistemProject\\Unopar\\CRM.Models\\CRM.Models.csproj",
+      "projectUniqueName": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Models\\CRM.Models.csproj",
       "projectName": "CRM.Models",
-      "projectPath": "C:\\SistemProject\\Unopar\\CRM.Models\\CRM.Models.csproj",
+      "projectPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Models\\CRM.Models.csproj",
       "packagesPath": "C:\\Users\\Iago\\.nuget\\packages\\",
-      "outputPath": "C:\\SistemProject\\Unopar\\CRM.Models\\obj\\",
+      "outputPath": "C:\\SistemProject\\AcadeLink-CRM-DotNet_Vue-\\CRM.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
